@@ -11,7 +11,7 @@ The analysis covers **279,712 listings, 182,024 hosts and over 1 million review 
 
 ## The Analysis
 
-Rather than looking at listing counts in isolation, the project examines the marketplace through three perspectives:
+Rather than looking at listing counts separately, this project examines the marketplace through three perspectives:
 
 - **Global Market Overview:** Listing trends over time, city-level distribution and the contribution of different property types.
 - **Market Share & Customer Experience:** City-wise market concentration, room-type pricing and customer ratings across key service dimensions.
@@ -19,11 +19,12 @@ Rather than looking at listing counts in isolation, the project examines the mar
 
 ## Key Findings
 
+- **Growth trend:** Airbnb's growth peaked around 2015, followed by a slowdown. The trend shows a recovery during 2018-19 before a sharp decline in 2019-20, coinciding with the disruption caused by COVID-19. Increased regulations may have contributed to the earlier slowdown, although the dataset does not establish this as the cause.
 - **Market concentration:** Paris, New York and Sydney together account for approximately **48.4% of listings** across the 10 cities analysed.
 - **Property preference:** Entire-place listings make up around **65% of the total supply**, making them the dominant accommodation type in this dataset.
 - **Customer experience:** The overall average listing rating is **93.41/100**. Accuracy and communication score relatively well, while cleanliness and value have more room for improvement.
 - **Review behaviour:** Approximately **99% of reviewers have submitted three or fewer reviews**. One reviewer with 283 reviews stands out as an extreme observation.
-- **Seasonal patterns:** Paris and Rome account for a substantial share of review activity during the April–August period, while New York shows a stronger share in November and December.
+- **Seasonal patterns:** Paris and Rome account for a substantial share of review activity during the April-August period, while New York shows a stronger share in November and December.
 
 ## Data & Methodology
 
@@ -34,6 +35,8 @@ The analysis uses two datasets:
 | Listings | 279,712 | 33 |
 | Reviews | 1,048,575 | 4 |
 | **Total** | **1,328,287** | **37** |
+
+<img width="1535" height="777" alt="Airbnb Data Model" src="https://github.com/user-attachments/assets/e7ec801a-8ea1-4b0f-ae19-8ad49721ba47" />
 
 The datasets were connected using `listing_id` through a **many-to-one relationship**, with Listings on the one side and Reviews on the many side. Bidirectional cross-filtering was used to support interaction between listing attributes and review activity.
 
