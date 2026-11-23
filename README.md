@@ -64,7 +64,7 @@ The Power BI dashboard is organised into three pages, moving from the global mar
 <img width="847" height="730" alt="Dashboard- Overview" src="https://github.com/user-attachments/assets/0f0be5dc-9ce8-49b7-b016-094bc004b9c5" />
 
 #### Page 2: Ratings
-<img width="856" height="732" alt="image" src="https://github.com/user-attachments/assets/68653a31-e5ee-4fb3-813e-dc64c16a6ae1" />
+<img width="847" height="730" alt="image" src="https://github.com/user-attachments/assets/68653a31-e5ee-4fb3-813e-dc64c16a6ae1" />
 
 #### Page 3: Reviews
-<img width="856" height="732" alt="image" src="https://github.com/user-attachments/assets/4d94b4b5-5a28-44d2-8ee8-d0267f4b0abd" />
+<img width="847" height="730" alt="image" src="https://github.com/user-attachments/assets/4d94b4b5-5a28-44d2-8ee8-d0267f4b0abd" />
