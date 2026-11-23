@@ -61,7 +61,7 @@ The analytical work included:
 The Power BI dashboard is organised into three pages, moving from the global marketplace overview to customer experience and review behaviour.
 
 #### Page 1: Overview
-<img width="856" height="732" alt="image" src="https://github.com/user-attachments/assets/9f577c5e-20b8-473e-93d5-7f2dddd292ac" />
+<img width="847" height="730" alt="Dashboard- Overview" src="https://github.com/user-attachments/assets/0f0be5dc-9ce8-49b7-b016-094bc004b9c5" />
 
 #### Page 2: Ratings
 <img width="856" height="732" alt="image" src="https://github.com/user-attachments/assets/68653a31-e5ee-4fb3-813e-dc64c16a6ae1" />
